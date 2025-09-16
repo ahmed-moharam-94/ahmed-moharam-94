@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ahmed-moharam-94
-- 👀 I’m interested in developing mobile apps using Flutter framework and native apps using Kotlin
-- 📫 How to reach me: email\ ahmed.moharam.abuelyazeed@gmail.com, linkedin\https://www.linkedin.com/in/ahmed-moharam-abuelyazeed
-
-<!---
-ahmed-moharam-94/ahmed-moharam-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Ahmed Moharam
+I’m a Backend Developer specialized in Django and a Mobile Developer specialized in Flutter
+I’m passionate about building scalable backend systems and creating seamless cross-platform mobile applications
+📫 How to reach me:
+Email: ahmed.moharam.abuelyazeed@gmail.com
+LinkedIn: linkedin.com/in/ahmed-moharam-abuelyazeed
